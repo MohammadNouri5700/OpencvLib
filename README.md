@@ -2,7 +2,7 @@
 
 Hello 
 
-I Build Opencv Source Files With Cmake And its Ready to use For C++ Developer 
+I Build Opencv Source Files With Cmake And its Ready to use For C++ Developer and Python Developer
 
 Opencv Version is (4.0.1) And Opencv Extra modules is (4.0.1) 
 
